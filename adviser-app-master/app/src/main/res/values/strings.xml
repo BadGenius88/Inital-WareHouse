@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AdviserApp</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="login">Login</string>
+    <string name="not_have_account">Not have account?</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="wrong_email_or_password">Wrong email or password</string>
+    <string name="error_message">Error occurred</string>
+    <string name="no_internet_connection">no internet connection</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+    <string name="confirm_password_mismatch">Confirm password mismatch</string>
+    <string name="username_exist">Username exist</string>
+    <string name="account_not_registered">Account not registered</string>
+    <string name="received_forms">Received Forms</string>
+    <string name="form_detail">Form Detail</string>
+    <string name="account_is_not_adviser">Account is not adviser</string>
+</resources>
