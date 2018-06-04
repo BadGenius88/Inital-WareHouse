@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adapter-rxjava2-2.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/library/adapter-rxjava2-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
